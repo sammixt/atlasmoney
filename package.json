@@ -1,0 +1,19 @@
+{
+  "name": "atlasmoney",
+  "version": "1.0.0",
+  "description": "Atlas Money Test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Samuel Ezeala",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "expres": "0.0.5",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "redis": "^2.8.0"
+  }
+}
